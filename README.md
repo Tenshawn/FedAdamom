@@ -74,7 +74,7 @@ python ./Code/fl/main_fed.py --seed 200 --gpu 0 --epochs 1000 \
 
 ## Citation
 
-If you find this work useful, please cite:
+If you use our work for your research, please cite our paper:
 
 ```bibtex
 @article{2026fedadamom,
