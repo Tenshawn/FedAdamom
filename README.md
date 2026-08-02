@@ -77,7 +77,7 @@ python ./Code/fl/main_fed.py --seed 200 --gpu 0 --epochs 1000 \
 If you find this work useful, please cite:
 
 ```bibtex
-@article{hou2026fedadamom,
+@article{2026fedadamom,
   title={FedAdamom: Adaptive Momentum for Improved Generalization in Federated Optimization},
   author={Hou, Wenjie and Chen, Tianxiang and Wang, Feng and Wu, Tiantong and Zheng, Zhiming and Tang, Shaoting and Lim, Wei Yang Bryan},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
