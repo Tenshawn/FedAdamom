@@ -8,8 +8,11 @@ Federated learning has emerged as a widely adopted training paradigm for privacy
 ## Environment ##
 All algorithms are implemented using PyTorch 2.0.0 with CUDA 11.8 on a GEFORCE RTX 4090 GPU.  
 We recommend using a Conda environment to run the Python scripts for this project. Follow these commands to set up the environment and install the required libraries:
+
 conda create -n fedadamom python=3.10
+
 conda activate fedadamom
+
 pip install -r requirements.txt
 
 ---
